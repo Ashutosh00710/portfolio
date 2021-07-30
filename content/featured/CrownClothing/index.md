@@ -1,14 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Crown Clothing'
+cover: './crown.png'
+github: 'https://github.com/Ashutosh00710/crwn-clothing'
+external: 'https://crownn-clothing-ltd-live.herokuapp.com/'
 tech:
   - React
+  - Redux
+  - SASS
+  - Firebase
   - Node.js
   - Express
-  - Spotify Web API
 showInProjects: true
 ---
 

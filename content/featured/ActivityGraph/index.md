@@ -1,15 +1,14 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '3'
+title: 'GitHub Readme Activity Graph'
+cover: './activity-graph.png'
+github: 'https://github.com/Ashutosh00710/github-readme-activity-graph'
+external: 'https://github.com/Ashutosh00710/github-readme-activity-graph'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - TypeScript
+  - Express
+  - Node.js
+  - Jest
 showInProjects: true
 ---
 

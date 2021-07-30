@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
+date: '2021-07-01'
+title: 'Web Developer Consultant'
+company: 'SPACENOS'
 location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+range: 'June 2021 - Present'
+url: 'https://spacenos.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
