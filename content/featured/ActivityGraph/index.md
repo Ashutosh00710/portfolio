@@ -9,7 +9,10 @@ tech:
   - Express
   - Node.js
   - Jest
+  - GitHub Actions
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+This Open Source Project converts GitHub stats to a well animated graph.
+This project follows test driven development using Jest. Currently it has 169 ⭐ stars, 52 forks and 8 contributors.
+The project got featured, reviewed, and appreciated by [Eddie Jaoude on YouTube](https://www.youtube.com/watch?v=djpH43hsOJI&t=3047s)
