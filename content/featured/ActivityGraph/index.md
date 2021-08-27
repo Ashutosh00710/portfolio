@@ -14,5 +14,5 @@ showInProjects: true
 ---
 
 This Open Source Project converts GitHub stats to a well animated graph.
-This project follows test driven development using Jest. Currently it has 169 ⭐ stars, 52 forks and 8 contributors.
+This project follows test driven development using Jest. Currently it has 190 ⭐ stars, 60 forks and 8 contributors.
 The project got featured, reviewed, and appreciated by [Eddie Jaoude on YouTube](https://www.youtube.com/watch?v=djpH43hsOJI&t=3047s)
