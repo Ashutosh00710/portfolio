@@ -3,7 +3,7 @@ date: '2021-07-01'
 title: 'Web Developer Consultant'
 company: 'SPACENOS'
 location: 'Boston, MA'
-range: 'June 2021 - Present'
+range: 'June 2021 - August 2021'
 url: 'https://spacenos.com/'
 ---
 

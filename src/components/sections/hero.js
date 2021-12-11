@@ -64,9 +64,10 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer specializing in building (and occasionally designing) exceptional
-      digital experiences. Currently, I'm working as a Web Development Consultant at{' '}
-      <a href="https://spacenos.com/" target="_blank" rel="noreferrer">
-        SPACENOS
+      digital experiences on both the sides Frontend as well as the Backend. Currently, I'm working
+      as a Product Engineer Intern at{' '}
+      <a href="https://ecosystm360.com/#" target="_blank" rel="noreferrer">
+        Ecosystm
       </a>
       .
     </p>

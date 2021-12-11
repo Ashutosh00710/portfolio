@@ -131,6 +131,10 @@ const About = () => {
     'TypeScript',
     'C++',
     'React',
+    'NestJS',
+    'Kafka',
+    'MongoDB',
+    'WebRTC',
     'Node.js',
     'Jest',
     'Firebase',
@@ -152,9 +156,9 @@ const About = () => {
 
             <p>
               Fast-forward to today, I've had the privilege of working at{' '}
-              <a href="https://spacenos.com/">SPACENOS</a>. My main focus these days is building
-              accessible, inclusive products and digital experiences using React for a variety of
-              clients.
+              <a href="https://ecosystm360.com/#">Ecosystm</a>. My main focus these days is building
+              accessible, inclusive products and digital experiences using Flutter, Nestjs, MongoDB
+              and Kafka. Currently, I'm contributing on the backend side.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
