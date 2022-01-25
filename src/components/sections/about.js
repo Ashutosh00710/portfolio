@@ -127,15 +127,16 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
+    'AWS',
     'TypeScript',
-    'C++',
-    'React',
     'NestJS',
     'Kafka',
     'MongoDB',
     'WebRTC',
     'Node.js',
+    'JavaScript (ES6+)',
+    'C++',
+    'React',
     'Jest',
     'Firebase',
     'Google Cloud Functions',
